@@ -6,4 +6,4 @@ options:
   url: https://mystageplugin.com
   port: 4000
 jars:
-  - https://github.com/sudhakaropsmx/MyStage-Plugin/mytage-0.0.1-SNAPSHOT.jar
+  - https://rawcdn.githack.com/sudhakaropsmx/MyStage-Plugin/23b27785988b67df6c197f33d951acce37bab28b/mytage-0.0.1-SNAPSHOT.jar
