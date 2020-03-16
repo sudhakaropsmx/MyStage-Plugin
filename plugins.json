@@ -1,30 +1,71 @@
-[{
-	"id": "Armory.RandomWaitPlugin",
-	"description": "An example of a PF4J-based plugin that provides a new stage.",
-	"provider": "https://github.com/sudhakaropsmx",
-	"releases": [{
-			"version": "1.0.16",
-			"date": "2020-03-16",
-			"requires": "orca>=0.0.0,deck>=0.0.0",
-			"sha512sum": "0a218278c8f9083f54117983e64ae508c5f21ddfc4dc5e5a6b757d73d61f216407cfa92a42d63ebd01ef80937373c973acc103ef5c758333511f66ec239c9943",
-			"state": "RELEASE",
-			"url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.0.16/pf4jStagePlugin-v1.0.16.zip"
-		},
-		{
-			"version": "1.0.15",
-			"date": "2020-02-26T17:02:30.666Z",
-			"requires": "orca>=0.0.0,deck>=0.0.0",
-			"sha512sum": "58437ae45cdcf44182b4e26379c6363d66b924445c81904f5dbf64441ba94e1b36d3b23557ecc3c6ff96dc5499f40cd1392f170bb3be3349a7c681ffaf26419d",
-			"state": "RELEASE",
-			"url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.0.15/pf4jStagePlugin-v1.0.15.zip"
-		},
-		{
-			"version": "1.0.14",
-			"date": "2020-02-26T04:24:32.070Z",
-			"requires": "orca>=0.0.0,deck>=0.0.0",
-			"sha512sum": "a6bd3b58e8747acb7c6cfa4d4f06db1c1d0e93b645288b1135607270d75245d0145ef36ca51d7d8d7d34b83e3fd012952400512df259a3ecd3175137d5de327b",
-			"state": "RELEASE",
-			"url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.0.14/pf4jStagePlugin-v1.0.14.zip"
-		}
-	]
-}]
+[
+    {
+      "id": "Armory.RandomWaitPlugin",
+      "description": "An example of a PF4J based plugin, that provides a new stage.",
+      "provider": "https://github.com/claymccoy",
+      "releases": [
+        {
+          "version": "1.0.16",
+          "date": "2020-02-26T18:42:44.793Z",
+          "requires": "orca\u003e=0.0.0,deck\u003e=0.0.0",
+          "sha512sum": "0a218278c8f9083f54117983e64ae508c5f21ddfc4dc5e5a6b757d73d61f216407cfa92a42d63ebd01ef80937373c973acc103ef5c758333511f66ec239c9943",
+          "state": "RELEASE",
+          "url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.0.16/pf4jStagePlugin-v1.0.16.zip"
+        },
+        {
+          "version": "1.0.15",
+          "date": "2020-02-26T17:02:30.666Z",
+          "requires": "orca\u003e=0.0.0,deck\u003e=0.0.0",
+          "sha512sum": "58437ae45cdcf44182b4e26379c6363d66b924445c81904f5dbf64441ba94e1b36d3b23557ecc3c6ff96dc5499f40cd1392f170bb3be3349a7c681ffaf26419d",
+          "state": "RELEASE",
+          "url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.0.15/pf4jStagePlugin-v1.0.15.zip"
+        },
+        {
+          "version": "1.0.14",
+          "date": "2020-02-26T04:24:32.070Z",
+          "requires": "orca\u003e=0.0.0,deck\u003e=0.0.0",
+          "sha512sum": "a6bd3b58e8747acb7c6cfa4d4f06db1c1d0e93b645288b1135607270d75245d0145ef36ca51d7d8d7d34b83e3fd012952400512df259a3ecd3175137d5de327b",
+          "state": "RELEASE",
+          "url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.0.14/pf4jStagePlugin-v1.0.14.zip"
+        }
+      ]
+    },
+    {
+      "id": "Armory.SpringExamplePlugin",
+      "description": "An example of a Spring based plugin that requires no extension points.",
+      "provider": "https://github.com/claymccoy",
+      "releases": [
+        {
+          "version": "1.0.5",
+          "date": "2020-02-26T04:37:26.016Z",
+          "requires": "orca\u003e=0.0.0",
+          "sha512sum": "8d26ddcb3e33fa76770f42724fbe5d4470ea097509cf672469a9ec6e9638fa7e3c2c07c9f709cdebe355750f1a2d8bc4d7811d51d9c0e460982b3d0a3c7860dc",
+          "state": "RELEASE",
+          "url": "https://github.com/spinnaker-plugin-examples/springExamplePlugin/releases/download/v1.0.5/springExamplePlugin-v1.0.5.zip"
+        }
+      ]
+    },
+    {
+      "id": "Armory.SillySecretsPlugin",
+      "description": "An example of a plugin that provides an extension to an interface that is not an extention point.",
+      "provider": "https://github.com/claymccoy",
+      "releases": [
+        {
+          "version": "1.0.6",
+          "date": "2020-02-26T04:47:30.197Z",
+          "requires": "clouddriver\u003e=0.0.0,orca\u003e=0.0.0",
+          "sha512sum": "76e241602c253413ef44d0e04a014ebc47d866443760f443b3de60249e4b3b51936646178a8f0dd2eaa96f0c4a5b48209e74a0dea3bf1ba68eae8dc9d0f455b8",
+          "state": "RELEASE",
+          "url": "https://github.com/spinnaker-plugin-examples/pf4jPluginWithoutExtensionPoint/releases/download/v1.0.6/pf4jPluginWithoutExtensionPoint-v1.0.6.zip"
+        },
+        {
+          "version": "1.0.5",
+          "date": "2020-02-26T04:38:43.594Z",
+          "requires": "clouddriver\u003e=0.0.0,orca\u003e=0.0.0",
+          "sha512sum": "ad5b85492906444710d9a0818dd82055f266f45f91be52270063910b0e22e5bf51254b55fea2f586fab35b3bee2e5dd43a51c55ce9ac638cee2971ba96e4c958",
+          "state": "RELEASE",
+          "url": "https://github.com/spinnaker-plugin-examples/pf4jPluginWithoutExtensionPoint/releases/download/v1.0.5/pf4jPluginWithoutExtensionPoint-v1.0.5.zip"
+        }
+      ]
+    }
+  ]
