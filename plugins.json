@@ -2,11 +2,11 @@
   {
     "id": "OpsMx.RandomWaitPlugin",
     "description": "An example of a PF4J-based plugin that provides a new stage.",
-    "provider": "https://github.com/claymccoy",
+    "provider": "https://github.com/sudhakaropsmx",
     "releases": [
       {
         "version": "1.0.16",
-        "date": "2020-02-26T18:42:44.793Z",
+        "date": "2020-03-16",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "0a218278c8f9083f54117983e64ae508c5f21ddfc4dc5e5a6b757d73d61f216407cfa92a42d63ebd01ef80937373c973acc103ef5c758333511f66ec239c9943",
         "state": "RELEASE",
