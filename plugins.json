@@ -1,5 +1,5 @@
 [{
-	"id": "OpsMx.RandomWaitPlugin",
+	"id": "Armory.RandomWaitPlugin",
 	"description": "An example of a PF4J-based plugin that provides a new stage.",
 	"provider": "https://github.com/sudhakaropsmx",
 	"releases": [{
