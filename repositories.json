@@ -1,6 +1,4 @@
-[
-  {
-    "id": "examplePluginsRepo",
-    "url": "https://raw.githubusercontent.com/sudhakaropsmx/MyStage-Plugin/master/plugins.json"
-  }
-]
+[{
+	"id": "examplePluginsRepo",
+	"url": "https://raw.githubusercontent.com/sudhakaropsmx/MyStage-Plugin/master/plugins.json"
+}]
